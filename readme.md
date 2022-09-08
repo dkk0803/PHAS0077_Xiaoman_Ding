@@ -61,4 +61,4 @@ After installing all the required modules, you can just download the project fro
 
 Run models.py if you want to see the training processes of machine learning models.
 
-Run data_analysis.py if you want to see some plots about data analysis.
+Run data_analysis.py if you want to see some analysis about the project dataset.
